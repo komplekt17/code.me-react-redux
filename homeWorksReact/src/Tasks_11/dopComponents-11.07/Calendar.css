@@ -1,0 +1,19 @@
+.calendar{
+	font-size: 1.25rem;
+}
+.calendar td{
+	cursor: pointer;
+	text-align: center;
+}
+.activeTd{
+	background: black;
+    color: yellow;
+}
+.todayTd{
+    background: green;
+    font-weight: bold;
+}
+.component-header h4{
+	min-width: 200px;
+	text-align: center;
+}
